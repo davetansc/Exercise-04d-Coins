@@ -1785,12 +1785,12 @@ TextureImporter:
       name: tilemap_79
       rect:
         serializedVersion: 2
-        x: 152
-        y: 95
+        x: 153
+        y: 97
         width: 18
         height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5, y: 1.2222222}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1974,12 +1974,12 @@ TextureImporter:
       name: tilemap_88
       rect:
         serializedVersion: 2
-        x: 152
-        y: 90
-        width: 16
-        height: 11
+        x: 153
+        y: 76
+        width: 17
+        height: 18
       alignment: 9
-      pivot: {x: 0.19755073, y: 0.16196801}
+      pivot: {x: 0.4117647, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
